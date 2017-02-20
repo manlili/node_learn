@@ -3,4 +3,4 @@ function list(student) {
 		console.log("学生姓名:"+student[i])
 	}
 }
-exports.print = list;
+exports.print = list ;
